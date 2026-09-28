@@ -3,7 +3,7 @@
 AWS automation scripts using Python and boto3.
 
 **Author:** Muhammad Aamir Sajjad  
-**Role:** Junior DevOps Engineer  
+**Role:** DevOps Engineer  
 **Date:** September 2026
 
 ---
