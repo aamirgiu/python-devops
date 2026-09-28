@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# AWS Credentials
+.aws/
+credentials
+*.pem
+*.key
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
